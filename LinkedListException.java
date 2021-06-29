@@ -1,10 +1,3 @@
-
-/**
- * Write a description of class LinkedListException here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 /**
  * Write a description of class LinkedListException here.
  *
